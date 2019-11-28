@@ -9,4 +9,3 @@ functions:
     image: dmc/show-html:latest
     environment:
       content_type: text/html
-
